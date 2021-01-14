@@ -21,12 +21,14 @@
 		FB8E9FBF2555C950005EE158 /* 03.Tipos.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 03.Tipos.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FB8E9FC02555C950005EE158 /* 05.ControlDeFlujo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 05.ControlDeFlujo.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		FB8E9FC12555C950005EE158 /* 02.Operadores.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = 02.Operadores.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		FB93BF9325B0C68500DCA28B /* EjercicioPC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EjercicioPC.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		FB8E9FB02555C942005EE158 = {
 			isa = PBXGroup;
 			children = (
+				FB93BF9325B0C68500DCA28B /* EjercicioPC.playground */,
 				FB7FC53E25790C7500BAE0C1 /* EjerciciosFlujo copy.playground */,
 				FB7FC53C25790C7500BAE0C1 /* EjerciciosIos copy.playground */,
 				FB7FC53D25790C7500BAE0C1 /* Repaso copy.playground */,
